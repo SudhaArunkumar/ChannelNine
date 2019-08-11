@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelNineMedia", "ChannelNineMedia\ChannelNineMedia.csproj", "{CF3EDE8E-D5E4-44FE-8088-3FC99B58EB10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelNineUnitTest", "ChannelNineUnitTest\ChannelNineUnitTest.csproj", "{5C418694-89A9-4AF6-A62B-A731355963C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelNineWebAPI", "ChannelNineWebAPI\ChannelNineWebAPI.csproj", "{EBCD4E46-839C-4DD7-9453-1BF40986FD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChannelNineMediaPersonAgeCal", "..\..\..\..\Downloads\AgeCalculator\AgeCalculator\ChannelNineMediaPersonAgeCal.csproj", "{58C60E8E-2089-4447-821D-C74DDF605C48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF3EDE8E-D5E4-44FE-8088-3FC99B58EB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3EDE8E-D5E4-44FE-8088-3FC99B58EB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3EDE8E-D5E4-44FE-8088-3FC99B58EB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3EDE8E-D5E4-44FE-8088-3FC99B58EB10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C418694-89A9-4AF6-A62B-A731355963C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C418694-89A9-4AF6-A62B-A731355963C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C418694-89A9-4AF6-A62B-A731355963C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C418694-89A9-4AF6-A62B-A731355963C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCD4E46-839C-4DD7-9453-1BF40986FD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCD4E46-839C-4DD7-9453-1BF40986FD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCD4E46-839C-4DD7-9453-1BF40986FD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCD4E46-839C-4DD7-9453-1BF40986FD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C60E8E-2089-4447-821D-C74DDF605C48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C60E8E-2089-4447-821D-C74DDF605C48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C60E8E-2089-4447-821D-C74DDF605C48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C60E8E-2089-4447-821D-C74DDF605C48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
